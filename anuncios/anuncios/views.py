@@ -3,7 +3,7 @@ import datetime
 
 
 def saludo(request): #primera vista
-	return HttpResponse("Hola alumnos")
+	return HttpResponse("El commit mas reciente")
 
 def data(request):
 	return HttpResponse("data form using")
