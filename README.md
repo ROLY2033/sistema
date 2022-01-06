@@ -1,1 +1,0 @@
-# proyecto de sistema de anuncios v2
